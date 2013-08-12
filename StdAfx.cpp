@@ -1,6 +1,7 @@
 // stdafx.cpp : source file that includes just the standard includes
 //	TCPsrv.pch will be the pre-compiled header
 //	stdafx.obj will contain the pre-compiled type information
+//  add a line to test github commit
 
 #include "stdafx.h"
 
